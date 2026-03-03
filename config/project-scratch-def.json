@@ -1,0 +1,12 @@
+{
+  "orgName": "Agentforce Reliable RAG",
+  "edition": "enterprise",
+  "features": [
+    "ServiceCloud"
+  ],
+  "settings": {
+    "lightningExperienceSettings": {
+      "enableS1DesktopEnabled": true
+    }
+  }
+}

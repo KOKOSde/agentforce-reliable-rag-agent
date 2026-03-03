@@ -1,0 +1,55 @@
+name: PR Validation
+
+on:
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    env:
+      ORG_ALIAS: ci-rag-${{ github.run_id }}
+      SF_DISABLE_TELEMETRY: true
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Install Salesforce CLI
+        run: npm install --global @salesforce/cli
+
+      - name: Authenticate Dev Hub
+        env:
+          SF_DEVHUB_SFDX_URL: ${{ secrets.SF_DEVHUB_SFDX_URL }}
+        run: |
+          test -n "${SF_DEVHUB_SFDX_URL}"
+          echo "${SF_DEVHUB_SFDX_URL}" > SFDX_AUTH_URL.txt
+          sf org login sfdx-url --sfdx-url-file SFDX_AUTH_URL.txt --alias devhub --set-default-dev-hub
+
+      - name: Create scratch org and deploy
+        run: bash scripts/setup-scratch-org.sh "${ORG_ALIAS}" 1
+
+      - name: Run Apex tests with coverage gate
+        run: bash scripts/run-tests.sh "${ORG_ALIAS}"
+
+      - name: Run eval and generate benchmark report
+        run: bash scripts/eval/run_eval.sh scripts/eval/policy_qa_200.jsonl artifacts/apex-coverage-summary.json
+
+      - name: Upload benchmark artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: benchmark-report
+          path: |
+            docs/benchmarks.json
+            docs/benchmarks.md
+            artifacts/apex-coverage-summary.json
+            artifacts/test-results/apex-test-result.json
+
+      - name: Delete scratch org
+        if: always()
+        run: bash scripts/teardown-scratch-org.sh "${ORG_ALIAS}" || true

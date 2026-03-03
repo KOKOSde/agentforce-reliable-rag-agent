@@ -1,0 +1,52 @@
+<template>
+    <lightning-card title="Policy Assistant" icon-name="standard:knowledge">
+        <div class="container">
+            <lightning-textarea
+                label="Customer policy question"
+                value={queryText}
+                onchange={handleQueryChange}
+                placeholder="Example: Can a customer return an opened product?"
+            ></lightning-textarea>
+            <lightning-input
+                class="session-input"
+                type="text"
+                label="Session ID (optional)"
+                value={sessionId}
+                onchange={handleSessionChange}
+            ></lightning-input>
+            <lightning-button
+                class="ask-button"
+                variant="brand"
+                label="Get grounded answer"
+                onclick={handleAsk}
+                disabled={isLoading}
+            ></lightning-button>
+            <template if:true={isLoading}>
+                <lightning-spinner size="small" alternative-text="Loading answer"></lightning-spinner>
+            </template>
+            <template if:true={errorMessage}>
+                <p class="error">{errorMessage}</p>
+            </template>
+            <template if:true={hasResponse}>
+                <div class="result">
+                    <p class="answer">{response.answer}</p>
+                    <p><strong>Confidence:</strong> {confidencePercent}</p>
+                    <p><strong>Correlation ID:</strong> {response.correlationId}</p>
+                    <template if:true={hasSafetyFlags}>
+                        <p class="flags"><strong>Safety flags:</strong> {safetyFlagsLabel}</p>
+                    </template>
+                    <template if:true={hasCitations}>
+                        <p><strong>Citations</strong></p>
+                        <template for:each={citations} for:item="citation">
+                            <div class="citation" key={citation.citationId}>
+                                <span class="citation-id">{citation.citationId}</span>
+                                <a href={citation.sourceUri} target="_blank">{citation.title}</a>
+                                <p>{citation.excerpt}</p>
+                            </div>
+                        </template>
+                    </template>
+                </div>
+            </template>
+        </div>
+    </lightning-card>
+</template>

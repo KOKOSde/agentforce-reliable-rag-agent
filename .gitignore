@@ -1,0 +1,8 @@
+artifacts/
+.sf/
+.sfdx/
+*.log
+*-diagnosis.json
+SFDX_AUTH_URL.txt
+sf-cli/
+sf.tar.xz

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Source_URL__c</fullName>
+    <description>Canonical policy source URL for citation links.</description>
+    <externalId>false</externalId>
+    <label>Source URL</label>
+    <required>false</required>
+    <type>Url</type>
+</CustomField>

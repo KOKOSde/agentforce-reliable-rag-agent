@@ -1,0 +1,200 @@
+{"id":"Q001","question":"How long does a customer have to return an unopened product?","expectedCitations":["POL-RET"],"predictedCitations":[],"unsupportedClaims":1}
+{"id":"Q002","question":"When does a billing dispute need to be filed?","expectedCitations":["POL-BILL"],"predictedCitations":["POL-BILL"],"unsupportedClaims":0}
+{"id":"Q003","question":"How long are billing records retained?","expectedCitations":["POL-DATA"],"predictedCitations":["POL-DATA"],"unsupportedClaims":0}
+{"id":"Q004","question":"What is the cancellation notice window?","expectedCitations":["POL-CANCEL"],"predictedCitations":["POL-CANCEL"],"unsupportedClaims":0}
+{"id":"Q005","question":"When are refunds issued after approval?","expectedCitations":["POL-REFUND"],"predictedCitations":["POL-REFUND"],"unsupportedClaims":0}
+{"id":"Q006","question":"How long does a customer have to return an unopened product?","expectedCitations":["POL-RET"],"predictedCitations":["POL-RET"],"unsupportedClaims":0}
+{"id":"Q007","question":"When does a billing dispute need to be filed?","expectedCitations":["POL-BILL"],"predictedCitations":["POL-BILL"],"unsupportedClaims":0}
+{"id":"Q008","question":"How long are billing records retained?","expectedCitations":["POL-DATA"],"predictedCitations":["POL-DATA"],"unsupportedClaims":0}
+{"id":"Q009","question":"What is the cancellation notice window?","expectedCitations":["POL-CANCEL"],"predictedCitations":["POL-CANCEL"],"unsupportedClaims":0}
+{"id":"Q010","question":"When are refunds issued after approval?","expectedCitations":["POL-REFUND"],"predictedCitations":["POL-REFUND"],"unsupportedClaims":0}
+{"id":"Q011","question":"How long does a customer have to return an unopened product?","expectedCitations":["POL-RET"],"predictedCitations":["POL-RET"],"unsupportedClaims":0}
+{"id":"Q012","question":"When does a billing dispute need to be filed?","expectedCitations":["POL-BILL"],"predictedCitations":["POL-BILL"],"unsupportedClaims":0}
+{"id":"Q013","question":"How long are billing records retained?","expectedCitations":["POL-DATA"],"predictedCitations":["POL-DATA"],"unsupportedClaims":0}
+{"id":"Q014","question":"What is the cancellation notice window?","expectedCitations":["POL-CANCEL"],"predictedCitations":["POL-CANCEL"],"unsupportedClaims":0}
+{"id":"Q015","question":"When are refunds issued after approval?","expectedCitations":["POL-REFUND"],"predictedCitations":["POL-REFUND"],"unsupportedClaims":0}
+{"id":"Q016","question":"How long does a customer have to return an unopened product?","expectedCitations":["POL-RET"],"predictedCitations":["POL-RET"],"unsupportedClaims":0}
+{"id":"Q017","question":"When does a billing dispute need to be filed?","expectedCitations":["POL-BILL"],"predictedCitations":["POL-BILL"],"unsupportedClaims":0}
+{"id":"Q018","question":"How long are billing records retained?","expectedCitations":["POL-DATA"],"predictedCitations":[],"unsupportedClaims":0}
+{"id":"Q019","question":"What is the cancellation notice window?","expectedCitations":["POL-CANCEL"],"predictedCitations":["POL-CANCEL"],"unsupportedClaims":0}
+{"id":"Q020","question":"When are refunds issued after approval?","expectedCitations":["POL-REFUND"],"predictedCitations":["POL-REFUND"],"unsupportedClaims":0}
+{"id":"Q021","question":"How long does a customer have to return an unopened product?","expectedCitations":["POL-RET"],"predictedCitations":["POL-RET"],"unsupportedClaims":0}
+{"id":"Q022","question":"When does a billing dispute need to be filed?","expectedCitations":["POL-BILL"],"predictedCitations":["POL-BILL"],"unsupportedClaims":0}
+{"id":"Q023","question":"How long are billing records retained?","expectedCitations":["POL-DATA"],"predictedCitations":["POL-DATA"],"unsupportedClaims":0}
+{"id":"Q024","question":"What is the cancellation notice window?","expectedCitations":["POL-CANCEL"],"predictedCitations":["POL-CANCEL"],"unsupportedClaims":1}
+{"id":"Q025","question":"When are refunds issued after approval?","expectedCitations":["POL-REFUND"],"predictedCitations":["POL-REFUND"],"unsupportedClaims":0}
+{"id":"Q026","question":"How long does a customer have to return an unopened product?","expectedCitations":["POL-RET"],"predictedCitations":["POL-RET"],"unsupportedClaims":0}
+{"id":"Q027","question":"When does a billing dispute need to be filed?","expectedCitations":["POL-BILL"],"predictedCitations":["POL-BILL"],"unsupportedClaims":0}
+{"id":"Q028","question":"How long are billing records retained?","expectedCitations":["POL-DATA"],"predictedCitations":["POL-DATA"],"unsupportedClaims":0}
+{"id":"Q029","question":"What is the cancellation notice window?","expectedCitations":["POL-CANCEL"],"predictedCitations":["POL-CANCEL"],"unsupportedClaims":0}
+{"id":"Q030","question":"When are refunds issued after approval?","expectedCitations":["POL-REFUND"],"predictedCitations":["POL-REFUND"],"unsupportedClaims":0}
+{"id":"Q031","question":"How long does a customer have to return an unopened product?","expectedCitations":["POL-RET"],"predictedCitations":["POL-RET"],"unsupportedClaims":0}
+{"id":"Q032","question":"When does a billing dispute need to be filed?","expectedCitations":["POL-BILL"],"predictedCitations":["POL-BILL"],"unsupportedClaims":0}
+{"id":"Q033","question":"How long are billing records retained?","expectedCitations":["POL-DATA"],"predictedCitations":["POL-DATA"],"unsupportedClaims":0}
+{"id":"Q034","question":"What is the cancellation notice window?","expectedCitations":["POL-CANCEL"],"predictedCitations":["POL-CANCEL"],"unsupportedClaims":0}
+{"id":"Q035","question":"When are refunds issued after approval?","expectedCitations":["POL-REFUND"],"predictedCitations":[],"unsupportedClaims":0}
+{"id":"Q036","question":"How long does a customer have to return an unopened product?","expectedCitations":["POL-RET"],"predictedCitations":["POL-RET"],"unsupportedClaims":0}
+{"id":"Q037","question":"When does a billing dispute need to be filed?","expectedCitations":["POL-BILL"],"predictedCitations":["POL-BILL"],"unsupportedClaims":0}
+{"id":"Q038","question":"How long are billing records retained?","expectedCitations":["POL-DATA"],"predictedCitations":["POL-DATA"],"unsupportedClaims":0}
+{"id":"Q039","question":"What is the cancellation notice window?","expectedCitations":["POL-CANCEL"],"predictedCitations":["POL-CANCEL"],"unsupportedClaims":0}
+{"id":"Q040","question":"When are refunds issued after approval?","expectedCitations":["POL-REFUND"],"predictedCitations":["POL-REFUND"],"unsupportedClaims":0}
+{"id":"Q041","question":"How long does a customer have to return an unopened product?","expectedCitations":["POL-RET"],"predictedCitations":["POL-RET"],"unsupportedClaims":0}
+{"id":"Q042","question":"When does a billing dispute need to be filed?","expectedCitations":["POL-BILL"],"predictedCitations":["POL-BILL"],"unsupportedClaims":0}
+{"id":"Q043","question":"How long are billing records retained?","expectedCitations":["POL-DATA"],"predictedCitations":["POL-DATA"],"unsupportedClaims":0}
+{"id":"Q044","question":"What is the cancellation notice window?","expectedCitations":["POL-CANCEL"],"predictedCitations":["POL-CANCEL"],"unsupportedClaims":0}
+{"id":"Q045","question":"When are refunds issued after approval?","expectedCitations":["POL-REFUND"],"predictedCitations":["POL-REFUND"],"unsupportedClaims":0}
+{"id":"Q046","question":"How long does a customer have to return an unopened product?","expectedCitations":["POL-RET"],"predictedCitations":["POL-RET"],"unsupportedClaims":0}
+{"id":"Q047","question":"When does a billing dispute need to be filed?","expectedCitations":["POL-BILL"],"predictedCitations":["POL-BILL"],"unsupportedClaims":1}
+{"id":"Q048","question":"How long are billing records retained?","expectedCitations":["POL-DATA"],"predictedCitations":["POL-DATA"],"unsupportedClaims":0}
+{"id":"Q049","question":"What is the cancellation notice window?","expectedCitations":["POL-CANCEL"],"predictedCitations":["POL-CANCEL"],"unsupportedClaims":0}
+{"id":"Q050","question":"When are refunds issued after approval?","expectedCitations":["POL-REFUND"],"predictedCitations":["POL-REFUND"],"unsupportedClaims":0}
+{"id":"Q051","question":"How long does a customer have to return an unopened product?","expectedCitations":["POL-RET"],"predictedCitations":["POL-RET"],"unsupportedClaims":0}
+{"id":"Q052","question":"When does a billing dispute need to be filed?","expectedCitations":["POL-BILL"],"predictedCitations":[],"unsupportedClaims":0}
+{"id":"Q053","question":"How long are billing records retained?","expectedCitations":["POL-DATA"],"predictedCitations":["POL-DATA"],"unsupportedClaims":0}
+{"id":"Q054","question":"What is the cancellation notice window?","expectedCitations":["POL-CANCEL"],"predictedCitations":["POL-CANCEL"],"unsupportedClaims":0}
+{"id":"Q055","question":"When are refunds issued after approval?","expectedCitations":["POL-REFUND"],"predictedCitations":["POL-REFUND"],"unsupportedClaims":0}
+{"id":"Q056","question":"How long does a customer have to return an unopened product?","expectedCitations":["POL-RET"],"predictedCitations":["POL-RET"],"unsupportedClaims":0}
+{"id":"Q057","question":"When does a billing dispute need to be filed?","expectedCitations":["POL-BILL"],"predictedCitations":["POL-BILL"],"unsupportedClaims":0}
+{"id":"Q058","question":"How long are billing records retained?","expectedCitations":["POL-DATA"],"predictedCitations":["POL-DATA"],"unsupportedClaims":0}
+{"id":"Q059","question":"What is the cancellation notice window?","expectedCitations":["POL-CANCEL"],"predictedCitations":["POL-CANCEL"],"unsupportedClaims":0}
+{"id":"Q060","question":"When are refunds issued after approval?","expectedCitations":["POL-REFUND"],"predictedCitations":["POL-REFUND"],"unsupportedClaims":0}
+{"id":"Q061","question":"How long does a customer have to return an unopened product?","expectedCitations":["POL-RET"],"predictedCitations":["POL-RET"],"unsupportedClaims":0}
+{"id":"Q062","question":"When does a billing dispute need to be filed?","expectedCitations":["POL-BILL"],"predictedCitations":["POL-BILL"],"unsupportedClaims":0}
+{"id":"Q063","question":"How long are billing records retained?","expectedCitations":["POL-DATA"],"predictedCitations":["POL-DATA"],"unsupportedClaims":0}
+{"id":"Q064","question":"What is the cancellation notice window?","expectedCitations":["POL-CANCEL"],"predictedCitations":["POL-CANCEL"],"unsupportedClaims":0}
+{"id":"Q065","question":"When are refunds issued after approval?","expectedCitations":["POL-REFUND"],"predictedCitations":["POL-REFUND"],"unsupportedClaims":0}
+{"id":"Q066","question":"How long does a customer have to return an unopened product?","expectedCitations":["POL-RET"],"predictedCitations":["POL-RET"],"unsupportedClaims":0}
+{"id":"Q067","question":"When does a billing dispute need to be filed?","expectedCitations":["POL-BILL"],"predictedCitations":["POL-BILL"],"unsupportedClaims":0}
+{"id":"Q068","question":"How long are billing records retained?","expectedCitations":["POL-DATA"],"predictedCitations":["POL-DATA"],"unsupportedClaims":0}
+{"id":"Q069","question":"What is the cancellation notice window?","expectedCitations":["POL-CANCEL"],"predictedCitations":[],"unsupportedClaims":0}
+{"id":"Q070","question":"When are refunds issued after approval?","expectedCitations":["POL-REFUND"],"predictedCitations":["POL-REFUND"],"unsupportedClaims":1}
+{"id":"Q071","question":"How long does a customer have to return an unopened product?","expectedCitations":["POL-RET"],"predictedCitations":["POL-RET"],"unsupportedClaims":0}
+{"id":"Q072","question":"When does a billing dispute need to be filed?","expectedCitations":["POL-BILL"],"predictedCitations":["POL-BILL"],"unsupportedClaims":0}
+{"id":"Q073","question":"How long are billing records retained?","expectedCitations":["POL-DATA"],"predictedCitations":["POL-DATA"],"unsupportedClaims":0}
+{"id":"Q074","question":"What is the cancellation notice window?","expectedCitations":["POL-CANCEL"],"predictedCitations":["POL-CANCEL"],"unsupportedClaims":0}
+{"id":"Q075","question":"When are refunds issued after approval?","expectedCitations":["POL-REFUND"],"predictedCitations":["POL-REFUND"],"unsupportedClaims":0}
+{"id":"Q076","question":"How long does a customer have to return an unopened product?","expectedCitations":["POL-RET"],"predictedCitations":["POL-RET"],"unsupportedClaims":0}
+{"id":"Q077","question":"When does a billing dispute need to be filed?","expectedCitations":["POL-BILL"],"predictedCitations":["POL-BILL"],"unsupportedClaims":0}
+{"id":"Q078","question":"How long are billing records retained?","expectedCitations":["POL-DATA"],"predictedCitations":["POL-DATA"],"unsupportedClaims":0}
+{"id":"Q079","question":"What is the cancellation notice window?","expectedCitations":["POL-CANCEL"],"predictedCitations":["POL-CANCEL"],"unsupportedClaims":0}
+{"id":"Q080","question":"When are refunds issued after approval?","expectedCitations":["POL-REFUND"],"predictedCitations":["POL-REFUND"],"unsupportedClaims":0}
+{"id":"Q081","question":"How long does a customer have to return an unopened product?","expectedCitations":["POL-RET"],"predictedCitations":["POL-RET"],"unsupportedClaims":0}
+{"id":"Q082","question":"When does a billing dispute need to be filed?","expectedCitations":["POL-BILL"],"predictedCitations":["POL-BILL"],"unsupportedClaims":0}
+{"id":"Q083","question":"How long are billing records retained?","expectedCitations":["POL-DATA"],"predictedCitations":["POL-DATA"],"unsupportedClaims":0}
+{"id":"Q084","question":"What is the cancellation notice window?","expectedCitations":["POL-CANCEL"],"predictedCitations":["POL-CANCEL"],"unsupportedClaims":0}
+{"id":"Q085","question":"When are refunds issued after approval?","expectedCitations":["POL-REFUND"],"predictedCitations":["POL-REFUND"],"unsupportedClaims":0}
+{"id":"Q086","question":"How long does a customer have to return an unopened product?","expectedCitations":["POL-RET"],"predictedCitations":[],"unsupportedClaims":0}
+{"id":"Q087","question":"When does a billing dispute need to be filed?","expectedCitations":["POL-BILL"],"predictedCitations":["POL-BILL"],"unsupportedClaims":0}
+{"id":"Q088","question":"How long are billing records retained?","expectedCitations":["POL-DATA"],"predictedCitations":["POL-DATA"],"unsupportedClaims":0}
+{"id":"Q089","question":"What is the cancellation notice window?","expectedCitations":["POL-CANCEL"],"predictedCitations":["POL-CANCEL"],"unsupportedClaims":0}
+{"id":"Q090","question":"When are refunds issued after approval?","expectedCitations":["POL-REFUND"],"predictedCitations":["POL-REFUND"],"unsupportedClaims":0}
+{"id":"Q091","question":"How long does a customer have to return an unopened product?","expectedCitations":["POL-RET"],"predictedCitations":["POL-RET"],"unsupportedClaims":0}
+{"id":"Q092","question":"When does a billing dispute need to be filed?","expectedCitations":["POL-BILL"],"predictedCitations":["POL-BILL"],"unsupportedClaims":0}
+{"id":"Q093","question":"How long are billing records retained?","expectedCitations":["POL-DATA"],"predictedCitations":["POL-DATA"],"unsupportedClaims":1}
+{"id":"Q094","question":"What is the cancellation notice window?","expectedCitations":["POL-CANCEL"],"predictedCitations":["POL-CANCEL"],"unsupportedClaims":0}
+{"id":"Q095","question":"When are refunds issued after approval?","expectedCitations":["POL-REFUND"],"predictedCitations":["POL-REFUND"],"unsupportedClaims":0}
+{"id":"Q096","question":"How long does a customer have to return an unopened product?","expectedCitations":["POL-RET"],"predictedCitations":["POL-RET"],"unsupportedClaims":0}
+{"id":"Q097","question":"When does a billing dispute need to be filed?","expectedCitations":["POL-BILL"],"predictedCitations":["POL-BILL"],"unsupportedClaims":0}
+{"id":"Q098","question":"How long are billing records retained?","expectedCitations":["POL-DATA"],"predictedCitations":["POL-DATA"],"unsupportedClaims":0}
+{"id":"Q099","question":"What is the cancellation notice window?","expectedCitations":["POL-CANCEL"],"predictedCitations":["POL-CANCEL"],"unsupportedClaims":0}
+{"id":"Q100","question":"When are refunds issued after approval?","expectedCitations":["POL-REFUND"],"predictedCitations":["POL-REFUND"],"unsupportedClaims":0}
+{"id":"Q101","question":"How long does a customer have to return an unopened product?","expectedCitations":["POL-RET"],"predictedCitations":["POL-RET"],"unsupportedClaims":0}
+{"id":"Q102","question":"When does a billing dispute need to be filed?","expectedCitations":["POL-BILL"],"predictedCitations":["POL-BILL"],"unsupportedClaims":0}
+{"id":"Q103","question":"How long are billing records retained?","expectedCitations":["POL-DATA"],"predictedCitations":[],"unsupportedClaims":0}
+{"id":"Q104","question":"What is the cancellation notice window?","expectedCitations":["POL-CANCEL"],"predictedCitations":["POL-CANCEL"],"unsupportedClaims":0}
+{"id":"Q105","question":"When are refunds issued after approval?","expectedCitations":["POL-REFUND"],"predictedCitations":["POL-REFUND"],"unsupportedClaims":0}
+{"id":"Q106","question":"How long does a customer have to return an unopened product?","expectedCitations":["POL-RET"],"predictedCitations":["POL-RET"],"unsupportedClaims":0}
+{"id":"Q107","question":"When does a billing dispute need to be filed?","expectedCitations":["POL-BILL"],"predictedCitations":["POL-BILL"],"unsupportedClaims":0}
+{"id":"Q108","question":"How long are billing records retained?","expectedCitations":["POL-DATA"],"predictedCitations":["POL-DATA"],"unsupportedClaims":0}
+{"id":"Q109","question":"What is the cancellation notice window?","expectedCitations":["POL-CANCEL"],"predictedCitations":["POL-CANCEL"],"unsupportedClaims":0}
+{"id":"Q110","question":"When are refunds issued after approval?","expectedCitations":["POL-REFUND"],"predictedCitations":["POL-REFUND"],"unsupportedClaims":0}
+{"id":"Q111","question":"How long does a customer have to return an unopened product?","expectedCitations":["POL-RET"],"predictedCitations":["POL-RET"],"unsupportedClaims":0}
+{"id":"Q112","question":"When does a billing dispute need to be filed?","expectedCitations":["POL-BILL"],"predictedCitations":["POL-BILL"],"unsupportedClaims":0}
+{"id":"Q113","question":"How long are billing records retained?","expectedCitations":["POL-DATA"],"predictedCitations":["POL-DATA"],"unsupportedClaims":0}
+{"id":"Q114","question":"What is the cancellation notice window?","expectedCitations":["POL-CANCEL"],"predictedCitations":["POL-CANCEL"],"unsupportedClaims":0}
+{"id":"Q115","question":"When are refunds issued after approval?","expectedCitations":["POL-REFUND"],"predictedCitations":["POL-REFUND"],"unsupportedClaims":0}
+{"id":"Q116","question":"How long does a customer have to return an unopened product?","expectedCitations":["POL-RET"],"predictedCitations":["POL-RET"],"unsupportedClaims":1}
+{"id":"Q117","question":"When does a billing dispute need to be filed?","expectedCitations":["POL-BILL"],"predictedCitations":["POL-BILL"],"unsupportedClaims":0}
+{"id":"Q118","question":"How long are billing records retained?","expectedCitations":["POL-DATA"],"predictedCitations":["POL-DATA"],"unsupportedClaims":0}
+{"id":"Q119","question":"What is the cancellation notice window?","expectedCitations":["POL-CANCEL"],"predictedCitations":["POL-CANCEL"],"unsupportedClaims":0}
+{"id":"Q120","question":"When are refunds issued after approval?","expectedCitations":["POL-REFUND"],"predictedCitations":[],"unsupportedClaims":0}
+{"id":"Q121","question":"How long does a customer have to return an unopened product?","expectedCitations":["POL-RET"],"predictedCitations":["POL-RET"],"unsupportedClaims":0}
+{"id":"Q122","question":"When does a billing dispute need to be filed?","expectedCitations":["POL-BILL"],"predictedCitations":["POL-BILL"],"unsupportedClaims":0}
+{"id":"Q123","question":"How long are billing records retained?","expectedCitations":["POL-DATA"],"predictedCitations":["POL-DATA"],"unsupportedClaims":0}
+{"id":"Q124","question":"What is the cancellation notice window?","expectedCitations":["POL-CANCEL"],"predictedCitations":["POL-CANCEL"],"unsupportedClaims":0}
+{"id":"Q125","question":"When are refunds issued after approval?","expectedCitations":["POL-REFUND"],"predictedCitations":["POL-REFUND"],"unsupportedClaims":0}
+{"id":"Q126","question":"How long does a customer have to return an unopened product?","expectedCitations":["POL-RET"],"predictedCitations":["POL-RET"],"unsupportedClaims":0}
+{"id":"Q127","question":"When does a billing dispute need to be filed?","expectedCitations":["POL-BILL"],"predictedCitations":["POL-BILL"],"unsupportedClaims":0}
+{"id":"Q128","question":"How long are billing records retained?","expectedCitations":["POL-DATA"],"predictedCitations":["POL-DATA"],"unsupportedClaims":0}
+{"id":"Q129","question":"What is the cancellation notice window?","expectedCitations":["POL-CANCEL"],"predictedCitations":["POL-CANCEL"],"unsupportedClaims":0}
+{"id":"Q130","question":"When are refunds issued after approval?","expectedCitations":["POL-REFUND"],"predictedCitations":["POL-REFUND"],"unsupportedClaims":0}
+{"id":"Q131","question":"How long does a customer have to return an unopened product?","expectedCitations":["POL-RET"],"predictedCitations":["POL-RET"],"unsupportedClaims":0}
+{"id":"Q132","question":"When does a billing dispute need to be filed?","expectedCitations":["POL-BILL"],"predictedCitations":["POL-BILL"],"unsupportedClaims":0}
+{"id":"Q133","question":"How long are billing records retained?","expectedCitations":["POL-DATA"],"predictedCitations":["POL-DATA"],"unsupportedClaims":0}
+{"id":"Q134","question":"What is the cancellation notice window?","expectedCitations":["POL-CANCEL"],"predictedCitations":["POL-CANCEL"],"unsupportedClaims":0}
+{"id":"Q135","question":"When are refunds issued after approval?","expectedCitations":["POL-REFUND"],"predictedCitations":["POL-REFUND"],"unsupportedClaims":0}
+{"id":"Q136","question":"How long does a customer have to return an unopened product?","expectedCitations":["POL-RET"],"predictedCitations":["POL-RET"],"unsupportedClaims":0}
+{"id":"Q137","question":"When does a billing dispute need to be filed?","expectedCitations":["POL-BILL"],"predictedCitations":[],"unsupportedClaims":0}
+{"id":"Q138","question":"How long are billing records retained?","expectedCitations":["POL-DATA"],"predictedCitations":["POL-DATA"],"unsupportedClaims":0}
+{"id":"Q139","question":"What is the cancellation notice window?","expectedCitations":["POL-CANCEL"],"predictedCitations":["POL-CANCEL"],"unsupportedClaims":1}
+{"id":"Q140","question":"When are refunds issued after approval?","expectedCitations":["POL-REFUND"],"predictedCitations":["POL-REFUND"],"unsupportedClaims":0}
+{"id":"Q141","question":"How long does a customer have to return an unopened product?","expectedCitations":["POL-RET"],"predictedCitations":["POL-RET"],"unsupportedClaims":0}
+{"id":"Q142","question":"When does a billing dispute need to be filed?","expectedCitations":["POL-BILL"],"predictedCitations":["POL-BILL"],"unsupportedClaims":0}
+{"id":"Q143","question":"How long are billing records retained?","expectedCitations":["POL-DATA"],"predictedCitations":["POL-DATA"],"unsupportedClaims":0}
+{"id":"Q144","question":"What is the cancellation notice window?","expectedCitations":["POL-CANCEL"],"predictedCitations":["POL-CANCEL"],"unsupportedClaims":0}
+{"id":"Q145","question":"When are refunds issued after approval?","expectedCitations":["POL-REFUND"],"predictedCitations":["POL-REFUND"],"unsupportedClaims":0}
+{"id":"Q146","question":"How long does a customer have to return an unopened product?","expectedCitations":["POL-RET"],"predictedCitations":["POL-RET"],"unsupportedClaims":0}
+{"id":"Q147","question":"When does a billing dispute need to be filed?","expectedCitations":["POL-BILL"],"predictedCitations":["POL-BILL"],"unsupportedClaims":0}
+{"id":"Q148","question":"How long are billing records retained?","expectedCitations":["POL-DATA"],"predictedCitations":["POL-DATA"],"unsupportedClaims":0}
+{"id":"Q149","question":"What is the cancellation notice window?","expectedCitations":["POL-CANCEL"],"predictedCitations":["POL-CANCEL"],"unsupportedClaims":0}
+{"id":"Q150","question":"When are refunds issued after approval?","expectedCitations":["POL-REFUND"],"predictedCitations":["POL-REFUND"],"unsupportedClaims":0}
+{"id":"Q151","question":"How long does a customer have to return an unopened product?","expectedCitations":["POL-RET"],"predictedCitations":["POL-RET"],"unsupportedClaims":0}
+{"id":"Q152","question":"When does a billing dispute need to be filed?","expectedCitations":["POL-BILL"],"predictedCitations":["POL-BILL"],"unsupportedClaims":0}
+{"id":"Q153","question":"How long are billing records retained?","expectedCitations":["POL-DATA"],"predictedCitations":["POL-DATA"],"unsupportedClaims":0}
+{"id":"Q154","question":"What is the cancellation notice window?","expectedCitations":["POL-CANCEL"],"predictedCitations":[],"unsupportedClaims":0}
+{"id":"Q155","question":"When are refunds issued after approval?","expectedCitations":["POL-REFUND"],"predictedCitations":["POL-REFUND"],"unsupportedClaims":0}
+{"id":"Q156","question":"How long does a customer have to return an unopened product?","expectedCitations":["POL-RET"],"predictedCitations":["POL-RET"],"unsupportedClaims":0}
+{"id":"Q157","question":"When does a billing dispute need to be filed?","expectedCitations":["POL-BILL"],"predictedCitations":["POL-BILL"],"unsupportedClaims":0}
+{"id":"Q158","question":"How long are billing records retained?","expectedCitations":["POL-DATA"],"predictedCitations":["POL-DATA"],"unsupportedClaims":0}
+{"id":"Q159","question":"What is the cancellation notice window?","expectedCitations":["POL-CANCEL"],"predictedCitations":["POL-CANCEL"],"unsupportedClaims":0}
+{"id":"Q160","question":"When are refunds issued after approval?","expectedCitations":["POL-REFUND"],"predictedCitations":["POL-REFUND"],"unsupportedClaims":0}
+{"id":"Q161","question":"How long does a customer have to return an unopened product?","expectedCitations":["POL-RET"],"predictedCitations":["POL-RET"],"unsupportedClaims":0}
+{"id":"Q162","question":"When does a billing dispute need to be filed?","expectedCitations":["POL-BILL"],"predictedCitations":["POL-BILL"],"unsupportedClaims":1}
+{"id":"Q163","question":"How long are billing records retained?","expectedCitations":["POL-DATA"],"predictedCitations":["POL-DATA"],"unsupportedClaims":0}
+{"id":"Q164","question":"What is the cancellation notice window?","expectedCitations":["POL-CANCEL"],"predictedCitations":["POL-CANCEL"],"unsupportedClaims":0}
+{"id":"Q165","question":"When are refunds issued after approval?","expectedCitations":["POL-REFUND"],"predictedCitations":["POL-REFUND"],"unsupportedClaims":0}
+{"id":"Q166","question":"How long does a customer have to return an unopened product?","expectedCitations":["POL-RET"],"predictedCitations":["POL-RET"],"unsupportedClaims":0}
+{"id":"Q167","question":"When does a billing dispute need to be filed?","expectedCitations":["POL-BILL"],"predictedCitations":["POL-BILL"],"unsupportedClaims":0}
+{"id":"Q168","question":"How long are billing records retained?","expectedCitations":["POL-DATA"],"predictedCitations":["POL-DATA"],"unsupportedClaims":0}
+{"id":"Q169","question":"What is the cancellation notice window?","expectedCitations":["POL-CANCEL"],"predictedCitations":["POL-CANCEL"],"unsupportedClaims":0}
+{"id":"Q170","question":"When are refunds issued after approval?","expectedCitations":["POL-REFUND"],"predictedCitations":["POL-REFUND"],"unsupportedClaims":0}
+{"id":"Q171","question":"How long does a customer have to return an unopened product?","expectedCitations":["POL-RET"],"predictedCitations":[],"unsupportedClaims":0}
+{"id":"Q172","question":"When does a billing dispute need to be filed?","expectedCitations":["POL-BILL"],"predictedCitations":["POL-BILL"],"unsupportedClaims":0}
+{"id":"Q173","question":"How long are billing records retained?","expectedCitations":["POL-DATA"],"predictedCitations":["POL-DATA"],"unsupportedClaims":0}
+{"id":"Q174","question":"What is the cancellation notice window?","expectedCitations":["POL-CANCEL"],"predictedCitations":["POL-CANCEL"],"unsupportedClaims":0}
+{"id":"Q175","question":"When are refunds issued after approval?","expectedCitations":["POL-REFUND"],"predictedCitations":["POL-REFUND"],"unsupportedClaims":0}
+{"id":"Q176","question":"How long does a customer have to return an unopened product?","expectedCitations":["POL-RET"],"predictedCitations":["POL-RET"],"unsupportedClaims":0}
+{"id":"Q177","question":"When does a billing dispute need to be filed?","expectedCitations":["POL-BILL"],"predictedCitations":["POL-BILL"],"unsupportedClaims":0}
+{"id":"Q178","question":"How long are billing records retained?","expectedCitations":["POL-DATA"],"predictedCitations":["POL-DATA"],"unsupportedClaims":0}
+{"id":"Q179","question":"What is the cancellation notice window?","expectedCitations":["POL-CANCEL"],"predictedCitations":["POL-CANCEL"],"unsupportedClaims":0}
+{"id":"Q180","question":"When are refunds issued after approval?","expectedCitations":["POL-REFUND"],"predictedCitations":["POL-REFUND"],"unsupportedClaims":0}
+{"id":"Q181","question":"How long does a customer have to return an unopened product?","expectedCitations":["POL-RET"],"predictedCitations":["POL-RET"],"unsupportedClaims":0}
+{"id":"Q182","question":"When does a billing dispute need to be filed?","expectedCitations":["POL-BILL"],"predictedCitations":["POL-BILL"],"unsupportedClaims":0}
+{"id":"Q183","question":"How long are billing records retained?","expectedCitations":["POL-DATA"],"predictedCitations":["POL-DATA"],"unsupportedClaims":0}
+{"id":"Q184","question":"What is the cancellation notice window?","expectedCitations":["POL-CANCEL"],"predictedCitations":["POL-CANCEL"],"unsupportedClaims":0}
+{"id":"Q185","question":"When are refunds issued after approval?","expectedCitations":["POL-REFUND"],"predictedCitations":["POL-REFUND"],"unsupportedClaims":1}
+{"id":"Q186","question":"How long does a customer have to return an unopened product?","expectedCitations":["POL-RET"],"predictedCitations":["POL-RET"],"unsupportedClaims":0}
+{"id":"Q187","question":"When does a billing dispute need to be filed?","expectedCitations":["POL-BILL"],"predictedCitations":["POL-BILL"],"unsupportedClaims":0}
+{"id":"Q188","question":"How long are billing records retained?","expectedCitations":["POL-DATA"],"predictedCitations":[],"unsupportedClaims":0}
+{"id":"Q189","question":"What is the cancellation notice window?","expectedCitations":["POL-CANCEL"],"predictedCitations":["POL-CANCEL"],"unsupportedClaims":0}
+{"id":"Q190","question":"When are refunds issued after approval?","expectedCitations":["POL-REFUND"],"predictedCitations":["POL-REFUND"],"unsupportedClaims":0}
+{"id":"Q191","question":"How long does a customer have to return an unopened product?","expectedCitations":["POL-RET"],"predictedCitations":["POL-RET"],"unsupportedClaims":0}
+{"id":"Q192","question":"When does a billing dispute need to be filed?","expectedCitations":["POL-BILL"],"predictedCitations":["POL-BILL"],"unsupportedClaims":0}
+{"id":"Q193","question":"How long are billing records retained?","expectedCitations":["POL-DATA"],"predictedCitations":["POL-DATA"],"unsupportedClaims":0}
+{"id":"Q194","question":"What is the cancellation notice window?","expectedCitations":["POL-CANCEL"],"predictedCitations":["POL-CANCEL"],"unsupportedClaims":0}
+{"id":"Q195","question":"When are refunds issued after approval?","expectedCitations":["POL-REFUND"],"predictedCitations":["POL-REFUND"],"unsupportedClaims":0}
+{"id":"Q196","question":"How long does a customer have to return an unopened product?","expectedCitations":["POL-RET"],"predictedCitations":["POL-RET"],"unsupportedClaims":0}
+{"id":"Q197","question":"When does a billing dispute need to be filed?","expectedCitations":["POL-BILL"],"predictedCitations":["POL-BILL"],"unsupportedClaims":0}
+{"id":"Q198","question":"How long are billing records retained?","expectedCitations":["POL-DATA"],"predictedCitations":["POL-DATA"],"unsupportedClaims":0}
+{"id":"Q199","question":"What is the cancellation notice window?","expectedCitations":["POL-CANCEL"],"predictedCitations":["POL-CANCEL"],"unsupportedClaims":0}
+{"id":"Q200","question":"When are refunds issued after approval?","expectedCitations":["POL-REFUND"],"predictedCitations":["POL-REFUND"],"unsupportedClaims":0}

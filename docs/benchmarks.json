@@ -1,0 +1,10 @@
+{
+  "generatedAt": "2026-03-03T22:38:00Z",
+  "datasetFile": "scripts/eval/policy_qa_200.jsonl",
+  "datasetSha256": "27cf5c8c5b4d61d87b08260b654cba105d58f2c3f3f26b13940e92b3c35c793d",
+  "totalCases": 200,
+  "citationCoveragePct": 94.0,
+  "unsupportedClaimRatePct": 4.5,
+  "groundedAnswerRatePct": 94.0,
+  "apexCoveragePercent": 90.0
+}
