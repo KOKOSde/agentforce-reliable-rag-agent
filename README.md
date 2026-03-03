@@ -1,34 +1,6 @@
-<svg width="1080" height="190" viewBox="0 0 1080 190" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Agentforce reliable RAG architecture">
-  <style>
-    .box { fill:#f8fbff; stroke:#1b3a57; stroke-width:2; rx:12; }
-    .text { font: 14px sans-serif; fill:#102a43; }
-    .arrow { stroke:#334e68; stroke-width:2; marker-end:url(#m); }
-  </style>
-  <defs>
-    <marker id="m" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto">
-      <path d="M0,0 L0,6 L9,3 z" fill="#334e68" />
-    </marker>
-  </defs>
-  <rect class="box" x="20" y="52" width="150" height="56"/>
-  <text class="text" x="40" y="86">Service Rep</text>
-  <rect class="box" x="220" y="52" width="150" height="56"/>
-  <text class="text" x="255" y="86">Agentforce</text>
-  <rect class="box" x="420" y="52" width="170" height="56"/>
-  <text class="text" x="445" y="86">Prompt Builder</text>
-  <rect class="box" x="640" y="52" width="170" height="56"/>
-  <text class="text" x="675" y="86">Apex Action</text>
-  <rect class="box" x="860" y="18" width="190" height="56"/>
-  <text class="text" x="900" y="52">Retriever</text>
-  <rect class="box" x="860" y="104" width="190" height="56"/>
-  <text class="text" x="896" y="138">Steering API</text>
-  <line class="arrow" x1="170" y1="80" x2="220" y2="80"/>
-  <line class="arrow" x1="370" y1="80" x2="420" y2="80"/>
-  <line class="arrow" x1="590" y1="80" x2="640" y2="80"/>
-  <line class="arrow" x1="810" y1="80" x2="860" y2="46"/>
-  <line class="arrow" x1="810" y1="80" x2="860" y2="132"/>
-  <line class="arrow" x1="1050" y1="80" x2="1000" y2="80"/>
-  <text class="text" x="700" y="176">Answer + citations + confidence + safety flags + correlation ID</text>
-</svg>
+<p align="center">
+  <img src="docs/architecture.svg" alt="Architecture: Service Rep → Agentforce → Prompt Builder → Apex Action → Retriever and Steering API → Answer with citations, confidence, safety flags, and correlation ID" width="1080">
+</p>
 
 # agentforce-reliable-rag-agent
 

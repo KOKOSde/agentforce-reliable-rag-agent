@@ -1,0 +1,34 @@
+<svg width="1080" height="190" viewBox="0 0 1080 190" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Agentforce reliable RAG architecture">
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto">
+      <path d="M0,0 L0,6 L9,3 z" fill="#334e68" />
+    </marker>
+  </defs>
+
+  <rect x="20" y="52" width="150" height="56" rx="12" fill="#f8fbff" stroke="#1b3a57" stroke-width="2" />
+  <text x="40" y="86" font-family="Arial, sans-serif" font-size="14" fill="#102a43">Service Rep</text>
+
+  <rect x="220" y="52" width="150" height="56" rx="12" fill="#f8fbff" stroke="#1b3a57" stroke-width="2" />
+  <text x="255" y="86" font-family="Arial, sans-serif" font-size="14" fill="#102a43">Agentforce</text>
+
+  <rect x="420" y="52" width="170" height="56" rx="12" fill="#f8fbff" stroke="#1b3a57" stroke-width="2" />
+  <text x="445" y="86" font-family="Arial, sans-serif" font-size="14" fill="#102a43">Prompt Builder</text>
+
+  <rect x="640" y="52" width="170" height="56" rx="12" fill="#f8fbff" stroke="#1b3a57" stroke-width="2" />
+  <text x="675" y="86" font-family="Arial, sans-serif" font-size="14" fill="#102a43">Apex Action</text>
+
+  <rect x="860" y="18" width="190" height="56" rx="12" fill="#f8fbff" stroke="#1b3a57" stroke-width="2" />
+  <text x="925" y="52" font-family="Arial, sans-serif" font-size="14" fill="#102a43">Retriever</text>
+
+  <rect x="860" y="104" width="190" height="56" rx="12" fill="#f8fbff" stroke="#1b3a57" stroke-width="2" />
+  <text x="917" y="138" font-family="Arial, sans-serif" font-size="14" fill="#102a43">Steering API</text>
+
+  <line x1="170" y1="80" x2="220" y2="80" stroke="#334e68" stroke-width="2" marker-end="url(#arrow)" />
+  <line x1="370" y1="80" x2="420" y2="80" stroke="#334e68" stroke-width="2" marker-end="url(#arrow)" />
+  <line x1="590" y1="80" x2="640" y2="80" stroke="#334e68" stroke-width="2" marker-end="url(#arrow)" />
+  <line x1="810" y1="80" x2="860" y2="46" stroke="#334e68" stroke-width="2" marker-end="url(#arrow)" />
+  <line x1="810" y1="80" x2="860" y2="132" stroke="#334e68" stroke-width="2" marker-end="url(#arrow)" />
+  <line x1="1050" y1="80" x2="1000" y2="80" stroke="#334e68" stroke-width="2" marker-end="url(#arrow)" />
+
+  <text x="580" y="176" font-family="Arial, sans-serif" font-size="14" fill="#102a43">Answer + citations + confidence + safety flags + correlation ID</text>
+</svg>
